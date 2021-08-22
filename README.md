@@ -26,7 +26,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ### Data Pre-Processing
 
 - Loaded the train and test data
-- Checking if the data is balanced i.e. whether the count of survived and not survived is equal or not in train set.
 - Checking for null values 
 - Imputing null values 
 - Outlier detection and treatment using IQR method
